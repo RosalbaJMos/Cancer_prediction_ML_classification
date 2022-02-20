@@ -1,3 +1,2 @@
 # ML
-ML projects  at Mactrice
-This is a predictive modeling example that uses LogisticRegression and RandomForestClassifier for binary classifications 
+This is an example of predictive modeling that uses LogisticRegression and RandomForestClassifier for binary classifications 
